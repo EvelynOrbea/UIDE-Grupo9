@@ -1,0 +1,9 @@
+dash
+gunicorn
+numpy>=1.16.2
+pandas>=0.24.2
+datetime
+pathlib>=1.0.1
+plotly
+dash-bootstrap-components~=1.6.0
+dash-table~=5.0.0
